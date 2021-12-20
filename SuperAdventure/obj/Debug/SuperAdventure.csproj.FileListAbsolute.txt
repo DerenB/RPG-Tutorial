@@ -1,0 +1,13 @@
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\bin\Debug\Engine.dll
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\bin\Debug\Engine.pdb
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\obj\Debug\SuperAdventure.csproj.AssemblyReference.cache
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\obj\Debug\SuperAdventure.csproj.SuggestedBindingRedirects.cache
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\obj\Debug\SuperAdventure.pdb
