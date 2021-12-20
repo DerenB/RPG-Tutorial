@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperAdventure", "SuperAdventure.csproj", "{8B8134B9-B333-49BC-9A17-13B1924D40CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B8134B9-B333-49BC-9A17-13B1924D40CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8134B9-B333-49BC-9A17-13B1924D40CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8134B9-B333-49BC-9A17-13B1924D40CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8134B9-B333-49BC-9A17-13B1924D40CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EDE01F6-5D3F-4796-B1F1-CA7213C964EE}
+	EndGlobalSection
+EndGlobal
