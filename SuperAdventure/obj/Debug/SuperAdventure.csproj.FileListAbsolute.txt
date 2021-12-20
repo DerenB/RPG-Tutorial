@@ -11,3 +11,4 @@ C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\ob
 C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
 C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\obj\Debug\SuperAdventure.exe
 C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
