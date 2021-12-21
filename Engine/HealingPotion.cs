@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Engine
 {
-    internal class HealingPotion
+    public class HealingPotion
     {
         public int ID { get; set; }
         public string Name { get; set; }
