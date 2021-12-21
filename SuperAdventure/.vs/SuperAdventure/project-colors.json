@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b8134b9-b333-49bc-9a17-13b1924d40cc": {
+      "ProjectGuid": "8b8134b9-b333-49bc-9a17-13b1924d40cc",
+      "DisplayName": "SuperAdventure",
+      "ColorIndex": 0
+    },
+    "a0b7e7e2-7222-46e9-bf36-9e89b1b8ecc2": {
+      "ProjectGuid": "a0b7e7e2-7222-46e9-bf36-9e89b1b8ecc2",
+      "DisplayName": "Engine",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
