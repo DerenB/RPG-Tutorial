@@ -4,3 +4,9 @@ C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\Engine\obj\Releas
 C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
 C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\Engine\obj\Release\Engine.dll
 C:\Users\dboze\Documents\Local-Repos\RPG-Tutorial\RPG-Tutorial\Engine\obj\Release\Engine.pdb
+C:\Users\dboze\Documents\LocalRepo\RPG-Tut\RPG-Tutorial\Engine\bin\Release\Engine.dll
+C:\Users\dboze\Documents\LocalRepo\RPG-Tut\RPG-Tutorial\Engine\bin\Release\Engine.pdb
+C:\Users\dboze\Documents\LocalRepo\RPG-Tut\RPG-Tutorial\Engine\obj\Release\Engine.csproj.AssemblyReference.cache
+C:\Users\dboze\Documents\LocalRepo\RPG-Tut\RPG-Tutorial\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
+C:\Users\dboze\Documents\LocalRepo\RPG-Tut\RPG-Tutorial\Engine\obj\Release\Engine.dll
+C:\Users\dboze\Documents\LocalRepo\RPG-Tut\RPG-Tutorial\Engine\obj\Release\Engine.pdb
