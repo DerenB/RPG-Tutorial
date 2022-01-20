@@ -23,7 +23,7 @@ namespace SuperAdventure
         {
             InitializeComponent();
 
-            if(File.Exists(PLAYER_DATA_FILE_NAME))
+            if (File.Exists(PLAYER_DATA_FILE_NAME))
             {
                 _player = Player.CreatePlayerFromXmlString(File.ReadAllText(PLAYER_DATA_FILE_NAME));
             }
@@ -77,7 +77,7 @@ namespace SuperAdventure
             cboWeapons.DisplayMember = "Name";
             cboWeapons.ValueMember = "Id";
 
-            if(_player.CurrentWeapon != null)
+            if (_player.CurrentWeapon != null)
             {
                 cboWeapons.SelectedItem = _player.CurrentWeapon;
             }
@@ -98,7 +98,7 @@ namespace SuperAdventure
         {
             rtbMessages.Text += messageEventArgs.Message + Environment.NewLine;
 
-            if(messageEventArgs.AddExtraNewLine)
+            if (messageEventArgs.AddExtraNewLine)
             {
                 rtbMessages.Text += Environment.NewLine;
             }
@@ -109,29 +109,29 @@ namespace SuperAdventure
 
         private void PlayerOnPropertyChanged(object sender, PropertyChangedEventArgs propertyChangedEventArgs)
         {
-            if(propertyChangedEventArgs.PropertyName == "Weapons")
+            if (propertyChangedEventArgs.PropertyName == "Weapons")
             {
                 cboWeapons.DataSource = _player.Weapons;
 
-                if(!_player.Weapons.Any())
+                if (!_player.Weapons.Any())
                 {
                     cboWeapons.Visible = false;
                     btnUseWeapon.Visible = false;
                 }
             }
 
-            if(propertyChangedEventArgs.PropertyName == "Potions")
+            if (propertyChangedEventArgs.PropertyName == "Potions")
             {
                 cboPotions.DataSource = _player.Potions;
 
-                if(!_player.Potions.Any())
+                if (!_player.Potions.Any())
                 {
                     cboPotions.Visible = false;
                     btnUsePotion.Visible = false;
                 }
             }
 
-            if(propertyChangedEventArgs.PropertyName == "CurrentLocation")
+            if (propertyChangedEventArgs.PropertyName == "CurrentLocation")
             {
                 // Show/hide available movement buttons
                 btnNorth.Visible = (_player.CurrentLocation.LocationToNorth != null);
@@ -143,7 +143,7 @@ namespace SuperAdventure
                 rtbLocation.Text = _player.CurrentLocation.Name + Environment.NewLine;
                 rtbLocation.Text += _player.CurrentLocation.Description + Environment.NewLine;
 
-                if(_player.CurrentLocation.MonsterLivingHere == null)
+                if (_player.CurrentLocation.MonsterLivingHere == null)
                 {
                     cboWeapons.Visible = false;
                     cboPotions.Visible = false;
@@ -204,6 +204,10 @@ namespace SuperAdventure
         private void cboWeapons_SelectedIndexChanged(object sender, EventArgs e)
         {
             _player.CurrentWeapon = (Weapon)cboWeapons.SelectedItem;
+        }
+
+        private void btnTrade_Click(object sender, EventArgs e)
+        {
         }
     }
 }

@@ -7,7 +7,7 @@ namespace Engine
     public class Vendor : INotifyPropertyChanged
     {
         public string Name { get; set; }
-        public BindingList<InventoryItem> Inventory { get; private set; }
+        public BindingList<InventoryItem> Inventory { get; set; }
 
         public Vendor(string name)
         {
