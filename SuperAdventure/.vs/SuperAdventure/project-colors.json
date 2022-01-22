@@ -10,7 +10,12 @@
       "ProjectGuid": "a0b7e7e2-7222-46e9-bf36-9e89b1b8ecc2",
       "DisplayName": "Engine",
       "ColorIndex": 1
+    },
+    "ab62038d-2343-4ed0-a1d8-3d9664c98bb9": {
+      "ProjectGuid": "ab62038d-2343-4ed0-a1d8-3d9664c98bb9",
+      "DisplayName": "SuperAdventureConsole",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
